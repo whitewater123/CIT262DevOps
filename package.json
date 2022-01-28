@@ -1,11 +1,33 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "chai": "^4.3.4",
     "mocha": "^9.1.4",
     "node-fetch": "^3.2.0"
+=======
+    "jest": "^27.4.7",
+    "mocha": "^9.2.0"
+>>>>>>> 2d4a3c2bed4074e696384240d88bc0602b3013de
   },
   "scripts": {
     "test": "mocha"
   },
-  "type": "module"
+  "type": "module",
+  "name": "cit262devops",
+  "description": "Testing pull request.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitewater123/CIT262DevOps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitewater123/CIT262DevOps/issues"
+  },
+  "homepage": "https://github.com/whitewater123/CIT262DevOps#readme"
 }
