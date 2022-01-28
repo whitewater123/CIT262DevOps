@@ -1,4 +1,4 @@
-import sayHello from "../utils/helloworld.mjs";
+import sayHello from "../utils/helloworld.js";
 import assert from 'assert';
 
 it("Hello World", ()=>{
